@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQOOEyVWcp5VBjrIdUwLtoOEvyUVq_opX8IGjMW-fM0gLcWMsBMo6z4sQ&s=10" group-title="TV Aberta", (ONLINE) Bandeirantes
+https://enc1.proxy.tokplay.com.br/BAND-MAIS-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTldhJsQIWVd1rGHyPbVPwZ3WSZbd5n_lYWhOFpiHhHohRcHQL94oD7yZY&s=10" group-title="TV Aberta", (ONLINE) TV Futura
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2pChX-xy3dO7PzDqV1s1MUTXqJT6P9rl7y_JcSjuI3gZkU7CU9GNKtwBF&s=10" group-title="TV Aberta", (ONLINE) Amazon Sat
+https://gcdn.2mdn.net/videoplayback/id/0f0e448a9e43018f/itag/346/source/web_video_ads/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3817488129/sparams/id,itag,source,ctier,acao,ip,ipbits,expire/signature/2E02C8A9E9D0E4922754F49C019669F8A120CE25.32E2CBB6607D39230A797262EB6A382F667F3090/key/ck2/file/file.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_dDq_W7pF5TPUMpFh0Xk_BaY3-ty5LfeW8IvBOoVUYVDQ9sc7vR-Rg1I&s=10" group-title="TV Aberta", (OFFLINE) Agro Mais
+https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTldhJsQIWVd1rGHyPbVPwZ3WSZbd5n_lYWhOFpiHhHohRcHQL94oD7yZY&s=10" group-title="TV Aberta", (ONLINE) TV Futura
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2pChX-xy3dO7PzDqV1s1MUTXqJT6P9rl7y_JcSjuI3gZkU7CU9GNKtwBF&s=10" group-title="TV Aberta", (ONLINE) Amazon Sat
+https://gcdn.2mdn.net/videoplayback/id/0f0e448a9e43018f/itag/346/source/web_video_ads/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3817488129/sparams/id,itag,source,ctier,acao,ip,ipbits,expire/signature/2E02C8A9E9D0E4922754F49C019669F8A120CE25.32E2CBB6607D39230A797262EB6A382F667F3090/key/ck2/file/file.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf3UxGeVkkHdEAyad03KWCDVUL8Vx2vrCVr9lVDTX-lgguMjRyckMBBYI&s=10" group-title="TV Aberta", (OFFLINE) TV Brasil
+https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLtTOyB5ypV4VhmSMRkUuXKzh5BmoZvWkjWZzJB-zM3mP)/dm/3/x82pp99/d/live-2.m3u8#cell=lnyc
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXR-6eTjaLjtNNhQgnW3IWOCYPE6C0WvdgwzrKARH2u-Mlrd5FNOXFaIQ&s=10" group-title="TV Aberta", (OFFLINE) Rede TV
+https://server100.online/redetv/video.m3u8?token=d98961fb87a1b84281b637ed605b887bab4cd800-4fd97febd67403bd83790762e27ab4e9-1674124457-1674117257&remote=45.182.200.106
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1024px-Logotipo_do_SBT.svg.png" group-title="TV Aberta", (ONLINE) SBT
+https://gcdn.2mdn.net/videoplayback/id/28825ded99836ba4/itag/346/source/web_video_ads/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/1705699633/sparams/ip,ipbits,expire,id,itag,source,ctier,acao/signature/12440F55897BC2F01D1641CB046001731DAB5D0E.B487D853B7640E7E7EE8F7385435AAC866B259DE/key/ck2/file/file.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfUUUo0sZ9SM4-eXizKiIjLQQnucNG5WhePzz9ehpXHR1SBm_hDYwblOU&s=10" group-title="TV Aberta", (OFFLINE) Globo
+https://br.embedflix.net/p2p/globosp/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xOS8yMDIzIDk6MzU6NTggUE0maGFzaF92YWx1ZT1pMDBwc01YMzhTbk5oM0VhS0JNTzRBPT0mdmFsaWRtaW51dGVzPTkw
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/HkmZ8X6QFa0/maxresdefault.jpg" group-title="TV Aberta", (ONLINE) Record
+https://gcdn.2mdn.net/videoplayback/id/e8c8edc72393e68e/itag/346/source/web_video_ads/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/1705700109/sparams/ip,ipbits,expire,id,itag,source,ctier,acao/signature/178D0F3CA9329357CFEA595F0A0ECFB44C4BEFA7.336F8E71E5379B1FE3430313A71D11CAAEF6CBFD/key/ck2/file/file.mp4
